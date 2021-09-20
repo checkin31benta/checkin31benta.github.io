@@ -1,0 +1,51 @@
+﻿/* Place Your Custom Styles Here */
+
+.navbar-brand-img {
+    height: 44px;
+    max-height: 100%;
+    width: auto;
+}
+
+.navbar-brand {
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-right: 1rem;
+}
+
+.hero-img {
+    height: 100px;
+    width: auto;
+}
+
+
+/**translate**/
+
+a.gflag {
+    vertical-align: middle;
+    font-size: 15px;
+    padding: 0px;
+}
+
+    a.gflag img {
+        border: 0;
+    }
+
+#goog-gt-tt {
+    display: none !important;
+}
+
+.goog-te-banner-frame {
+    display: none !important;
+}
+
+.goog-te-menu-value:hover {
+    text-decoration: none !important;
+}
+
+body {
+    top: 0 !important;
+}
+
+#google_translate_element2 {
+    display: none !important;
+}
