@@ -20316,3 +20316,17 @@ button.mfp-arrow.mfp-arrow-right::after {
 .slick-dotted.slick-slider.dots-light .slick-dots li button {
   background: #fff;
 }
+
+
+
+.parallax {
+    /* The image used */
+    background-image: url("assets/images/image-4.webp");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
